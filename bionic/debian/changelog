@@ -1,0 +1,5 @@
+ignition-fuel-tools3 (3.0.0-1~bionic) bionic; urgency=medium
+
+  * ignition-fuel-tools3 3.0.0-1 release
+
+ -- Nate Koenig <nate@openrobotics.org>  Tue, 29 Jan 2019 08:05:34 -0700
