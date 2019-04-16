@@ -2,3 +2,4 @@ usr/include/*
 usr/lib/*/*.so
 usr/lib/*/pkgconfig/*.pc
 usr/lib/*/cmake/ignition-*/*
+usr/share/ignition/ignition-fuel-tools[0-99]/ignition-fuel-tools*.tag.xml
