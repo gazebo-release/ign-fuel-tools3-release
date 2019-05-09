@@ -1,3 +1,9 @@
+ignition-fuel-tools3 (3.1.0~pre1-1~stretch) stretch; urgency=medium
+
+  * ignition-fuel-tools3 3.1.0~pre1-1 release
+
+ -- Steve Peters <scpeters@osrfoundation.org>  Thu, 09 May 2019 14:45:13 -0700
+
 ignition-fuel-tools3 (3.0.1-1~stretch) stretch; urgency=medium
 
   * ignition-fuel-tools3 3.0.1-1 release
