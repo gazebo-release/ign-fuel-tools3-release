@@ -1,3 +1,9 @@
+ignition-fuel-tools3 (3.2.1-1~stretch) stretch; urgency=medium
+
+  * ignition-fuel-tools3 3.2.1-1 release
+
+ -- Louise Poubel <louise@openrobotics.org>  Mon, 12 Aug 2019 14:56:30 -0700
+
 ignition-fuel-tools3 (3.2.0-1~stretch) stretch; urgency=medium
 
   * ignition-fuel-tools3 3.2.0-1 release
