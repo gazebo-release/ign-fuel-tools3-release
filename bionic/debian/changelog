@@ -1,3 +1,9 @@
+ignition-fuel-tools3 (3.3.0-1~bionic) bionic; urgency=medium
+
+  * ignition-fuel-tools3 3.3.0-1 release
+
+ -- Louise Poubel <louise@openrobotics.org>  Wed, 29 Jul 2020 16:57:38 -0700
+
 ignition-fuel-tools3 (3.2.2-1~bionic) bionic; urgency=medium
 
   * ignition-fuel-tools3 3.2.2-1 release
